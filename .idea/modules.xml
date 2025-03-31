@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/annotation_practice/annotation_practice.iml" filepath="$PROJECT_DIR$/annotation_practice/annotation_practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/eureka-spring-study.iml" filepath="$PROJECT_DIR$/.idea/eureka-spring-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-SpringDI/practice-SpringDI.iml" filepath="$PROJECT_DIR$/practice-SpringDI/practice-SpringDI.iml" />
     </modules>
   </component>
 </project>

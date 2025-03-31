@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="annotation_practice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../annotation_practice/out/artifacts/annotation_practice_jar/annotation_practice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
