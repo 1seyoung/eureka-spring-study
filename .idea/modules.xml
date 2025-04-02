@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/annotation_practice/annotation_practice.iml" filepath="$PROJECT_DIR$/annotation_practice/annotation_practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/eureka-spring-study.iml" filepath="$PROJECT_DIR$/.idea/eureka-spring-study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/practice-SpringDI/practice-SpringDI.iml" filepath="$PROJECT_DIR$/practice-SpringDI/practice-SpringDI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc-book/springmvc-book.iml" filepath="$PROJECT_DIR$/springmvc-book/springmvc-book.iml" />
     </modules>
   </component>
 </project>
