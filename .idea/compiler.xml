@@ -7,8 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringAOP" />
+        <module name="JPABasic6_OneToOne_BI" />
         <module name="springmvc-book" />
         <module name="SrpingDI" />
+        <module name="JPABasic_Workshop" />
+        <module name="JPABasic_Nplus1" />
+        <module name="JPABasic7_ManyToOne" />
       </profile>
     </annotationProcessing>
   </component>
